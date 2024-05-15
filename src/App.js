@@ -9,7 +9,7 @@ export default function App() {
       
      
       <Header className="App-header" />
-      <Meme />
+      <Meme />  
     </div>
   );
 }
